@@ -3,6 +3,7 @@ Print out a message addressed to them that tells them the year that they will tu
 """
 
 name = raw_input("Enter your name : ")
-age = int(raw_input("Enter your age : ")
+age = int(raw_input("Enter your age : "))
 century = (2016-age) + 100
-print name + '\n, You will turn a 100 years old in the year ',century
+x = int(raw_input("Enter no. of copies you want : "))
+print x*(name + ', You will turn a 100 years old in the year ',century)
