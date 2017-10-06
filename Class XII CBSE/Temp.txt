@@ -1,0 +1,12 @@
+(lp0
+S'This'
+p1
+aS'how'
+p2
+aS'you'
+p3
+aS'remind'
+p4
+aS'me'
+p5
+a.
