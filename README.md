@@ -1,5 +1,6 @@
 # Python Practice
 
-Originally practicepython.org
+Originally practicepython.org 
+
 Changed as practice resources diversified.
 
