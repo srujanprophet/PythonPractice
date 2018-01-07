@@ -158,7 +158,7 @@ def game_intro():
 def game_loop():
 	global pause
 
-	pygame.mixer.music.load("Love_Struck.wav")
+	pygame.mixer.music.load("Cha_Cappella.wav")
 	pygame.mixer.music.play(-1)
 
 	x = (display_width * 0.45)
