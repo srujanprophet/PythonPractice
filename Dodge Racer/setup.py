@@ -1,6 +1,6 @@
 import cx_Freeze
 
-executables = [cx_Freeze.Executable("Racey.py")]
+executables = [cx_Freeze.Executable("DodgeRacer.py")]
 
 cx_Freeze.setup(
 	name="Dodge Racer",
@@ -8,3 +8,4 @@ cx_Freeze.setup(
 						   "include_files":["racecar.png","carIcon.png","Crash.wav","Cha_Cappella.wav"]}},
 	executables= executables
 	)
+
