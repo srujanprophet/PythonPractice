@@ -99,7 +99,7 @@ def paused():
 			if event.type == pygame.QUIT:
 				quitgame()
 
-		gameDisplay.fill(white)
+		#gameDisplay.fill(white)
 
 		button("Continue",150,450,100,50,green,bright_green,unpause)
 		button("Quit",550,450,100,50,red,bright_red,quitgame)
